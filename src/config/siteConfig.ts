@@ -48,7 +48,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "Shawn's blog",
 
 	// 站点 URL
-	site_url: "https://huo.ee",
+	site_url: "https://shawnlog.github.io",
 
 	// 站点描述
 	description:
