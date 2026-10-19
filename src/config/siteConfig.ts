@@ -48,21 +48,21 @@ export const siteConfig: SiteConfig = {
 	subtitle: "Shawn's blog",
 
 	// 站点 URL
-	site_url: "https://huo.ee",
+	site_url: "https://shawnlog.github.io",
 
 	// 站点描述
 	description:
-		"这是一个基于 Arstro、GitHub Pages 与 Cloudflare 托管的个人静态技术博客，记录着个人的工作、学习与生活思考。",
+		"Shawn的个人网站，关于Shawn的生活、学习和工作，健身，瑜伽，阅读，写作",
 
 	// 站点关键词
 	keywords: [
-		"Firefly",
+		
 		"Shawn",
 		"Astro",
 		"blog",
 		"博客",
-		"原厂博客",
-		"静态博客",
+		"原创博客",
+		"独立博客",
 	],
 
 	// 主题色
@@ -117,7 +117,7 @@ export const siteConfig: SiteConfig = {
 			alt: "🍀",
 		},
 		// 导航栏标题
-		title: "Shawn",
+		title: "HUO.EE | ",
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中
