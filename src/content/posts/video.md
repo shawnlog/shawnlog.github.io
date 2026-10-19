@@ -6,6 +6,7 @@ tags: [示例, 视频, Firefly]
 category: 文章示例
 slug: video
 series: "Firefly 功能示例"
+draft: true
 seriesOrder: 5
 ---
 

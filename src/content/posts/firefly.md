@@ -8,7 +8,9 @@ category: 文章示例
 image: ./images/firefly2.avif
 slug: firefly
 series: "Firefly 功能示例"
+draft: true
 seriesOrder: 4
+
 ---
 
 ## 🌟 项目概述

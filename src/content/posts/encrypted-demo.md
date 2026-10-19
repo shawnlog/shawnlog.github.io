@@ -8,6 +8,7 @@ password: "123456"
 passwordHint: "示例文章密码123456"
 slug: encrypted-demo
 series: "Firefly 功能示例"
+draft: true
 seriesOrder: 6
 ---
 

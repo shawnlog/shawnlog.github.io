@@ -6,6 +6,7 @@ tags: [PlantUML, Firefly, Markdown]
 category: 文章示例
 slug: markdown-plantuml
 series: "Firefly 功能示例2"
+draft: true
 seriesOrder: 4
 ---
 
