@@ -5,7 +5,7 @@ description: 一场户外公益瑜伽
 tags: [瑜伽, 照片]
 category: 活动
 slug: yunxigongyuan-huwaiyujia-20150322
-draft: ture
+draft: true
 ---
 
 

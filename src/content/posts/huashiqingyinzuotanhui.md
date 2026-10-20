@@ -6,7 +6,7 @@ image:
 tags: [瑜伽, 青音]
 category: 活动
 slug: huashi-qingyin-zuotanhui-20150712
-draft: ture
+draft: true
 ---
 
 

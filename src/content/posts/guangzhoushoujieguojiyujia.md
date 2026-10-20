@@ -5,7 +5,7 @@ description: 很有纪念意义的千人瑜伽盛会
 tags: [瑜伽, 照片]
 category: 活动
 slug: guangzhou-gongjiyujia-20150621
-draft: ture
+draft: true
 ---
 
 
