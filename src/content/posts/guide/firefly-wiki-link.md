@@ -7,6 +7,7 @@ tags: [Markdown, Obsidian, Wiki-Link, 文章示例]
 category: 博客指南
 slug: guide/firefly-wiki-link
 series: "Firefly 功能示例"
+draft:ture
 seriesOrder: 3
 ---
 

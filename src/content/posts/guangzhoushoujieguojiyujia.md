@@ -5,7 +5,7 @@ description: 很有纪念意义的千人瑜伽盛会
 tags: [瑜伽, 照片]
 category: 活动
 slug: guangzhou-gongjiyujia-20150621
-draft: false
+draft: ture
 ---
 
 
@@ -63,6 +63,6 @@ draft: false
 
 在台上，也是他们的讲话最有水平，以气驭声，注重精神层面。真正大师级别的人物，归根到底还得回到智慧层面。
 
-![image-20261019234434001](https://raw.githubusercontent.com/shawnlog/img2026/main/picgo/20261019234437571.png)
+![喜欢花臂女老师](https://raw.githubusercontent.com/shawnlog/img2026/main/picgo/20261019234437571.png)
 
 最后，祝愿国际瑜伽日活动越办越圆满，祝愿所有的瑜伽习练者都能收获健康宁静。

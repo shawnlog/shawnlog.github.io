@@ -7,6 +7,7 @@ image: "./cover.avif"
 tags: ["Firefly", "博客", "Markdown", "指南"]
 category: 博客指南
 series: "Firefly 功能示例"
+draft:ture
 seriesOrder: 1
 ---
 
