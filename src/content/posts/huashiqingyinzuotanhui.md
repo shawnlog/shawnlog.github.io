@@ -1,8 +1,7 @@
 ---
 title: 华师青音座谈会
 published: 2015-07-12
-description: 简短描述
-image: 
+description: 青音公益活动 
 tags: [瑜伽, 青音]
 category: 活动
 slug: huashi-qingyin-zuotanhui-20150712
